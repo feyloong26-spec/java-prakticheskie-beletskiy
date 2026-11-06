@@ -1,0 +1,16 @@
+.idea/
+*.iml
+target/
+out/
+*.class
+.DS_Store
+
+# Local settings, credentials and generated files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.jks
+*.log
+Thumbs.db

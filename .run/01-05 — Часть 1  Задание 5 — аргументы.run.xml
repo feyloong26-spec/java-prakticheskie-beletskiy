@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="01.05 | Часть 1 / Задание 5 — аргументы" type="Application" factoryName="Application" nameIsGenerated="false">
+    <option name="MAIN_CLASS_NAME" value="ru.beletskiy.tasks.ch01.z05.Main" />
+    <module name="java-prakticheskie" />
+    <option name="PROGRAM_PARAMETERS" value="java 2026 primer" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

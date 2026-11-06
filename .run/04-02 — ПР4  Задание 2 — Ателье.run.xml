@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="04.02 | ПР4 / Задание 2 — Ателье" type="Application" factoryName="Application" nameIsGenerated="false">
+    <option name="MAIN_CLASS_NAME" value="ru.beletskiy.tasks.ch04.z02.Main" />
+    <module name="java-prakticheskie" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

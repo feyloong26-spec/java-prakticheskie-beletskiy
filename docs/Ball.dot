@@ -1,0 +1,1 @@
+digraph G {graph [rankdir=LR];node [shape=record,fontname="DejaVu Sans",fontsize=11]; Ball [label="{Ball|- x: double\l- y: double\l|+ Ball()\l+ Ball(x, y)\l+ getX(): double\l+ getY(): double\l+ setXY(x, y): void\l+ move(xDisp, yDisp): void\l+ toString(): String\l}"]; TestBall [label="{TestBall|+ main(args): void}"]; TestBall -> Ball [style=dashed];}
